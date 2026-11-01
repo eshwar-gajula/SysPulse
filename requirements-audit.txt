@@ -1,0 +1,7 @@
+# Keep these declared direct dependencies in sync with pyproject.toml.
+fastapi>=0.115,<1.0
+psutil>=6.0,<8.0
+uvicorn>=0.30,<1.0
+httpx2>=2.0,<3.0
+pytest>=8.0,<10.0
+ruff>=0.11,<1.0
